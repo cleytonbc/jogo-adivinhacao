@@ -1,5 +1,5 @@
 import { Logo } from "../Logo";
-import { Container } from "./styled";
+import { Container } from "./styles";
 
 export function Sidebar(){
   return (

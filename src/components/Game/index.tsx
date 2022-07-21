@@ -1,5 +1,5 @@
 import { useSum } from "../../TotalContext"
-import { Container, Number, Table } from "./styled"
+import { Container, Number, Table } from "./styles"
 
 interface GameProps {
   listNum: number[]

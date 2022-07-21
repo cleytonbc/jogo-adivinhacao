@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { GiMagickTrick } from 'react-icons/gi';
-import { Container} from "./styled"
+import { Container} from "./styles"
 
 interface resultProps {
   result: number;
